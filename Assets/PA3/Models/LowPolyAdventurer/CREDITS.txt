@@ -1,0 +1,6 @@
+Low Poly Adventurer
+Autor: Marek Piechota
+Fuente: https://sketchfab.com/3d-models/low-poly-adventurer-d2d09d9187ef47f0b63fb1d73178d5c2
+Licencia: Creative Commons Attribution (CC BY)
+
+Modelo utilizado para la apariencia del jugador en PA3.
