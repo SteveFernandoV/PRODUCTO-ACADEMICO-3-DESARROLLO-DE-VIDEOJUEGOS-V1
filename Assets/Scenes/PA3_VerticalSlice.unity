@@ -263,7 +263,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4867409114203262176, guid: 03356b5e521f9004c81b853efbc43be2, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.6389025
       objectReference: {fileID: 0}
     - target: {fileID: 4867409114203262176, guid: 03356b5e521f9004c81b853efbc43be2, type: 3}
       propertyPath: m_LocalRotation.x
@@ -271,7 +271,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4867409114203262176, guid: 03356b5e521f9004c81b853efbc43be2, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.7692877
       objectReference: {fileID: 0}
     - target: {fileID: 4867409114203262176, guid: 03356b5e521f9004c81b853efbc43be2, type: 3}
       propertyPath: m_LocalRotation.z
@@ -283,7 +283,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4867409114203262176, guid: 03356b5e521f9004c81b853efbc43be2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -100.58
       objectReference: {fileID: 0}
     - target: {fileID: 4867409114203262176, guid: 03356b5e521f9004c81b853efbc43be2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -1001,7 +1001,7 @@ MonoBehaviour:
     m_Value: 0
   OutputChannel: 1
   StandbyUpdate: 2
-  m_StreamingVersion: 0
+  m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
     TrackingTarget: {fileID: 0}
@@ -2176,7 +2176,7 @@ Transform:
   m_GameObject: {fileID: 953647671}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 404.4, y: 46.228, z: 463.81}
+  m_LocalPosition: {x: 404.4, y: 45.76, z: 463.81}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3634,7 +3634,7 @@ Transform:
   m_GameObject: {fileID: 1427917024}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 424.5949, y: 46.41, z: 469.88147}
+  m_LocalPosition: {x: 424.5949, y: 46.1, z: 469.88147}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4514,7 +4514,7 @@ MonoBehaviour:
     m_Value: 0
   OutputChannel: 1
   StandbyUpdate: 2
-  m_StreamingVersion: 0
+  m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
     TrackingTarget: {fileID: 0}
@@ -4589,7 +4589,7 @@ MonoBehaviour:
     m_Value: 0
   OutputChannel: 1
   StandbyUpdate: 2
-  m_StreamingVersion: 0
+  m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
     TrackingTarget: {fileID: 0}
@@ -4820,9 +4820,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1863611270}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.47580227, z: -0, w: 0.8795523}
-  m_LocalPosition: {x: -1.7272644, y: -5.2700005, z: 27.124115}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0.91651374, z: -0, w: 0.40000314}
+  m_LocalPosition: {x: -2.5, y: -5.3054, z: 26.99}
+  m_LocalScale: {x: 1.0354, y: 1.0354, z: 1.0354}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 34020335}
@@ -4834,7 +4834,7 @@ Transform:
   - {fileID: 463268435}
   - {fileID: 1087021948}
   m_Father: {fileID: 1427917025}
-  m_LocalEulerAnglesHint: {x: 0, y: -56.823, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -132.843, z: 0}
 --- !u!1 &1917273959
 GameObject:
   m_ObjectHideFlags: 0
