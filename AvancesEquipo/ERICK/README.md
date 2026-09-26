@@ -5,3 +5,5 @@ Esta carpeta conserva una copia separada del proyecto Unity compartido en `PA03-
 El proyecto de Erick está en `PA03-INICIO-main/` (`Assets`, `Packages` y `ProjectSettings`). Usa Unity 6000.6.0f1. No sustituye la escena ni los archivos del proyecto principal; se guarda como evidencia de su avance para revisión e integración posterior.
 
 No se incluyen carpetas generadas por Unity como `Library`, `Temp`, `Logs` o `UserSettings`.
+
+Para revisar este avance sin alterar el juego final, abre `PA03-INICIO-main/` como proyecto independiente desde Unity Hub. Su escena propia está en `Assets/Scenes/SampleScene.unity`; no hay que copiarla sobre la escena principal.
